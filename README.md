@@ -1,0 +1,2 @@
+# Faites-une-analyse-des-ventes-pour-un-e-commerce
+Aujourd’hui, comme tous les débuts de mois, vous avez prévu de travailler sur le rapport mensuel des actions marketing de votre équipe. Pour cela, il vous faudra :   préparer la présentation des chiffres clés généraux à partir des graphiques déjà générés (cf. e-mail de Frédérique ci-dessous) ; préparer le rapport des données spécifiques aux clients affiliés sur Excel à partir des données directement (cf. e-mail de Pauline ci-dessous).
